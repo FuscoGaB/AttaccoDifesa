@@ -1,0 +1,7 @@
+C:\Users\diana\OneDrive\Desktop\CSharp\AttaccoDifesaArena\bin\Debug\AttaccoDifesaArena.exe.config
+C:\Users\diana\OneDrive\Desktop\CSharp\AttaccoDifesaArena\bin\Debug\AttaccoDifesaArena.exe
+C:\Users\diana\OneDrive\Desktop\CSharp\AttaccoDifesaArena\bin\Debug\AttaccoDifesaArena.pdb
+C:\Users\diana\OneDrive\Desktop\CSharp\AttaccoDifesaArena\obj\Debug\AttaccoDifesaArena.csproj.AssemblyReference.cache
+C:\Users\diana\OneDrive\Desktop\CSharp\AttaccoDifesaArena\obj\Debug\AttaccoDifesaArena.csproj.CoreCompileInputs.cache
+C:\Users\diana\OneDrive\Desktop\CSharp\AttaccoDifesaArena\obj\Debug\AttaccoDifesaArena.exe
+C:\Users\diana\OneDrive\Desktop\CSharp\AttaccoDifesaArena\obj\Debug\AttaccoDifesaArena.pdb
